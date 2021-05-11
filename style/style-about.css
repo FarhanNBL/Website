@@ -1,10 +1,10 @@
 body {
   text-align: center;
-  background-image: url(../images/pexels-pixabay-326311.jpg);
+  background-image: linear-gradient(to bottom right, #000, #32323291);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  color: rgb(255, 255, 255);
+  color: white;
   
 
   margin: 0px;
