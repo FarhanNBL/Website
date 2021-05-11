@@ -18,8 +18,8 @@ body {
   right: 20%;
 }
 
-.bottom-container{
-  background-color:  rgba(106, 148, 226, 0.37);
+/* .bottom-container{
+  background-color:  rgba(106, 148, 226, 0.37); */
 }
 .btn {
   margin: 10px auto;
@@ -37,9 +37,9 @@ body {
   color: #11999e;
 }
 
-.contact-me{
+/* .contact-me{
   background-color: rgba(106, 148, 226, 0.37);
-}
+} */
 
 .footer-link {
   color: #7bdde0;
