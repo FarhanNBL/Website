@@ -42,12 +42,12 @@ body {
 } */
 
 .footer-link {
-  color: #4a503d;
+  color: #848a78;
 /*   background-color: rgba(0, 0, 0, 0.575); */
 }
 
 .footer-link:hover {
-  color: #11999e;
+  color: #fff;
 }
 .giphy-embed-coding {
   border-radius: 100%;
