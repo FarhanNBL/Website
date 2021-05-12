@@ -24,7 +24,7 @@ body {
 .btn {
   margin: 10px auto;
   font-size: 15px;
-  color: #ffffff;
+  color: #a8ad9c;
   display: inline-block;
   background-color: rgba(0, 0, 0, 0.384);
   padding: 20px 15px;
@@ -42,7 +42,7 @@ body {
 } */
 
 .footer-link {
-  color: #848a78;
+  color: #a8ad9c;
 /*   background-color: rgba(0, 0, 0, 0.575); */
 }
 
